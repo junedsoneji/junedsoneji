@@ -20,10 +20,10 @@ Welcome to my GitHub! I’m a Senior Engineer and **Team Lead** with over 10 yea
   - Modular, maintainable code design and implementation.
 
 - **Full-Stack Development**
-  - Frontend: React.js, Angular, Vue.js
-  - Backend: Node.js, Java, Python, Go
-  - Databases: MySQL, PostgreSQL, MongoDB, Redis
-  - Cloud & DevOps: Docker, Kubernetes, CI/CD, Terraform, Jenkins
+  - Frontend: Angular, Ionic, Bootstrap, Tailwind, PrimeNG
+  - Backend: NodeJs, Java, PHP, JSP, Servlet
+  - Databases: MySQL, PostgreSQL, MongoDB, Redis, DynamoDB
+  - Cloud & DevOps: CI/CD, Terraform, Jenkins, AWS, GCP
 
 - **Advanced Performance Tuning**
   - Optimizing caching strategies, load balancing, and global CDN implementations.
