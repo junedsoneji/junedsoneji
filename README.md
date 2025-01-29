@@ -42,7 +42,7 @@ Welcome to my GitHub! I’m a Senior Engineer and **Team Lead** with over 10 yea
 
 ## 🛠️ Tools & Technologies
 
-- **Languages/Tech**: Typescript, Javascript, Dart, NodeJS
+- **Languages/Tech**: Typescript, Javascript, Dart, NodeJS, HTML, CSS, Google Analytics
 - **Frameworks**: Angular, Ionic, Flutter, Electron, NgXS, 
 - **Databases**: MySQL, MongoDB, PostgreSQL, Redis, Elasticsearch
 - **DevOps Tools**: Jenkins, Git, Terraform,
