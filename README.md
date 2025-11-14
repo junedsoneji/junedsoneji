@@ -1,62 +1,46 @@
-# 👨‍💻 Team Lead | Software Engineer | Application Performance Optimization  | 10+ Years Experience
+### **Hi there, I'm Juned 👋**
 
-Welcome to my GitHub! I’m a Senior Engineer and **Team Lead** with over 10 years of experience in **application performance optimization**, **software architecture**, and **scalable system design**. My current role focuses on leading high-performance engineering teams, mentoring junior developers, and ensuring the delivery of highly optimized, scalable systems.
+I'm a Team Lead with over 12 years of hands-on experience in building, scaling, and leading teams to create high-performance, scalable web applications.
 
-## 🔧 Core Competencies
+I'm passionate about clean architecture, performance optimization, and mentoring developers to achieve technical excellence. My expertise spans the full stack, from modern frontend frameworks to robust backend services and cloud infrastructure.
 
-- **Leadership & Team Management**
-  - Leading and mentoring cross-functional engineering teams.
-  - Designing and executing technical roadmaps and growth plans for team members.
-  - Collaborating with stakeholders to prioritize and deliver high-impact projects.
+### **🚀 My Leadership & Impact**
 
-- **Application Performance Optimization**
-  - Performance profiling, bottleneck identification, and resolution.
-  - Memory and CPU optimization, resource management.
-  - Load testing, stress testing, and latency optimization for high-traffic systems.
+In my leadership roles, I've focused on making a measurable impact on performance and quality:
 
-- **Architecture & Structuring**
-  - High-level system design for scalable, fault-tolerant systems.
-  - Microservices architecture, distributed systems, and cloud-based solutions (AWS, GCP, Azure).
-  - Modular, maintainable code design and implementation.
+* **CI/CD Optimization:** Managed and optimized CI/CD pipelines, **reducing average deployment time by over 40%** (from \~30 min to 12 min).  
+* **Code Quality:** Instituted rigorous code review processes, leading to a **\~30% reduction in logical production bugs** and improving team-wide knowledge.  
+* **Performance Engineering:** Optimized complex database queries for a high-volume reporting tool, enabling the generation of year-long data reports (from \~70,000+ orders) in **under 1 minute**.
 
-- **Full-Stack Development**
-  - Frontend: Angular, Ionic, Bootstrap, Tailwind, PrimeNG
-  - Backend: NodeJs, Java, PHP, JSP, Servlet
-  - Databases: MySQL, PostgreSQL, MongoDB, Redis, DynamoDB
-  - Cloud & DevOps: CI/CD, Terraform, Jenkins, AWS, GCP
+### **🛠️ My Tech Stack**
 
-- **Advanced Performance Tuning**
-  - Optimizing caching strategies, load balancing, and global CDN implementations.
-  - Database query optimization, indexing strategies, and high-availability setups.
+Here are the primary technologies I work with:
 
-- **Monitoring & Observability**
-  - Setting up and maintaining monitoring tools (Prometheus, Grafana, Datadog).
-  - Continuous improvement of system observability to reduce downtime and improve performance.
+| Category | Technologies |
+| :---- | :---- |
+| **Frontend** | Angular, NextJS, TypeScript, Ionic |
+| **Backend** | NodeJS, NestJS, Express, Micro-services, API Development, PHP |
+| **Databases** | Postgres, MongoDB, MySQL, Redis, Supabase |
+| **Cloud/DevOps** | AWS, Jenkins, Git, Github, Bit Bucket |
+| **Testing** | Jest, Playwright |
+| **Tools** | Jira, Favro |
 
-## 🏆 Key Achievements
+### **🔭 Some Awesome Projects I've Architected**
 
-- **Led a high-performance team** that optimized an enterprise-level application, achieving a **40% reduction in response time** and increasing throughput by over **250%**.
-- **Successfully migrated legacy systems to a cloud-native architecture** on AWS, reducing operational costs by **15%** and improving scalability.
-- **Introduced automation and CI/CD best practices**, cutting deployment time by **70%** and significantly improving code quality and release cycles.
-- Guided the development of **complex performance optimizations** for real-time systems, reducing latency by **35%** under high-load conditions.
+Here are some highlights of the systems I've had the pleasure of building and leading.
 
-## 🛠️ Tools & Technologies
-
-- **Languages/Tech**: Typescript, Javascript, Dart, NodeJS, HTML, CSS, Google Analytics
-- **Frameworks**: Angular, Ionic, Flutter, Electron, NgXS, 
-- **Databases**: MySQL, MongoDB, PostgreSQL, Redis, Elasticsearch
-- **DevOps Tools**: Jenkins, Git, Terraform,
-- **Cloud Platforms**: AWS, GCP
-- **Testing**: Jest, Playwright
-
-## 🧑‍🏫 Mentorship & Leadership
-
-As a **Team Lead**, my goal is to empower my team to grow and succeed. I believe in fostering a collaborative and supportive environment where everyone feels confident to share ideas, ask questions, and challenge assumptions. My leadership philosophy is based on:
-
-- **Transparency and open communication**: Building trust through clear, honest conversations.
-- **Fostering a learning culture**: Encouraging continuous learning and knowledge sharing.
-- **Leading by example**: Ensuring that I’m always working with the team to solve problems, rather than just directing from above.
-
----
-
-Thank you for visiting my GitHub! I'm always eager to discuss new opportunities, share insights, and collaborate on projects that drive innovation and performance at scale. Let’s optimize the world together! 🚀
+* **🤖 AI-Powered Recruitment Platform**  
+  * An internal tool for recruiters to create job postings and score candidates. Integrated an AI API (like OpenAI) to parse CVs, generate relevancy scores, and streamline shortlisting.  
+  * *(Tech: NextJS, Postgres, Open AI API)*  
+* **🏦 Fintech Verification Workflow System**  
+  * A B2B application for agencies to manage and process loan application verifications. The system generates detailed reports for partner banks to make final decisions.  
+  * *(Tech: Angular, NodeJS, MongoDB)*  
+* **📡 Serverless Data Ingestion Pipeline**  
+  * A high-throughput system for a telecom provider to parse and ingest millions of call log records in real-time. Used serverless functions for massive scalability and low-cost data ingestion.  
+  * *(Tech: NextJS, Supabase, Supabase Edge Functions, Postgres)*  
+* **📦 Secure Digital Locker System**  
+  * An automated, secure parcel pickup and shipping system. Architected the platform to include video monitoring and real-time SMS notifications for users.  
+  * *(Tech: Angular, NodeJS, MongoDB, AWS)*  
+* **🏨 Hospitality POS Suite**  
+  * A comprehensive, offline-first point-of-sale (POS) ecosystem for restaurants, which included a tablet-based POS, a mobile waiter app, and a kitchen display system.  
+  * *(Tech: AngularJS, Angular, Electron, PHP, Ionic, MySQL, AWS)*
