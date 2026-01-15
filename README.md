@@ -18,8 +18,8 @@ Here are the primary technologies I work with:
 
 | Category | Technologies |
 | :---- | :---- |
-| **Frontend** | Angular, NextJS, TypeScript, Ionic |
-| **Backend** | NodeJS, NestJS, Express, Micro-services, API Development, PHP |
+| **Frontend** | Angular, NextJS, TypeScript, Ionic, React |
+| **Backend** | NodeJS, NestJS, Express, Micro-services, PHP |
 | **Databases** | Postgres, MongoDB, MySQL, Redis, Supabase |
 | **Cloud/DevOps** | AWS, Jenkins, Git, Github, Bit Bucket |
 | **Testing** | Jest, Playwright |
